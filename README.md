@@ -88,7 +88,7 @@
      git commit -m "first commit"
      ```
      Adds a commit entitled `first commit`;
-   - 
+
 7. **Command: `git push`**
 
    - **Use Case:** When you want to add the commit changes to the cloud repository.
