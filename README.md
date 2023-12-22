@@ -77,7 +77,7 @@
      ```
      Moves your branch to the commit with the hash `abc123`.
 
-#Kamachi, Angelo Justine Collab
+##Kamachi, Angelo Justine Collab
 
 6. **Command: `git commit`**
 
