@@ -77,9 +77,29 @@
      ```
      Moves your branch to the commit with the hash `abc123`.
 
+#Kamachi, Angelo Justine Collab
+
+6. **Command: `git commit`**
+
+   - **Use Case:** When you want to add a commit to the commit history.
+   - **Parameters:** Commit message
+   - **Example:**
+     ```bash
+     git commit -m "first commit"
+     ```
+     Adds a commit entitled `first commit`;
+   - 
+7. **Command: `git push`**
+
+   - **Use Case:** When you want to add the commit changes to the cloud repository.
+   - **Parameters:** Which branches to push
+   - **Example:**
+     ```bash
+     git push --all
+     ```
+     Changes all branches on your cloud repository using your commit changes.
+
  🌟
-
-
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎, MS Teams or BBL.
